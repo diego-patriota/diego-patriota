@@ -19,3 +19,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegopatriota&lang_count=20&layout=compact&theme=dracula" />
 </div>
 <br/>
+
+---
+
+<div>
+ <h3> private </h3> 
+ <img height="90em" src="https://user-images.githubusercontent.com/88724815/196972785-494fb6a7-80e8-476f-878e-c65ab4f43b49.png" />
+</div>
+
+
+<br/>
+<div> 
+  <img height="360em" src="https://user-images.githubusercontent.com/88724815/196970854-6e41851b-e6c0-43c2-a1f4-58ae52796e46.png" />
+</div>
+<br/>
