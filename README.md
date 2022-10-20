@@ -8,3 +8,14 @@
 - 🧬 I'm technology agnostic, I love them all.
 - 💻 return this.javascript("node","typescript", "vue", "react", ...others) && this.java("sprintboot", ...thereIsMore)
 - 📫 You can find me on [LinkedIn](https://br.linkedin.com/in/diego-patriota-10a148b9)
+
+---
+
+#### Other account [DIEGOPATRIOTA](https://github.com/DIEGOPATRIOTA)
+
+<br/>
+<div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegopatriota&show_icons=true&theme=dracula&include_all_commits=false&count_private=true&custom_title=Github%20Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegopatriota&lang_count=10&layout=compact&theme=dracula" />
+</div>
+<br/>
